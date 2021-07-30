@@ -1,4 +1,4 @@
-### Here is What I'm Working On! 👋
+### A little about me! 👋
 
 - 🔭 I’m currently working on Infinite Widget: https://apple.co/3iOx24z
 - 🌱 I’m currently learning ...SwiftUI and Combine
