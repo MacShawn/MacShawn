@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Infinite Widget
+- 🔭 I’m currently working on Infinite Widget: https://apple.co/3iOx24z
 - 🌱 I’m currently learning ...SwiftUI and Combine
 - - 🌱 I’m currently learning ... UX/UI Design
 - 👯 I’m looking to collaborate on ... SwiftUI projects
